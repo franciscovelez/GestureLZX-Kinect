@@ -1,0 +1,39 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.ControlsBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Microsoft.Samples.Kinect.ControlsBasics"
+        Name="ControlsBasicsWindow"
+        Title="Controls Basics"
+        Closing="WindowClosing"
+        mc:Ignorable="d"
+        d:DesignWidth="1300"
+        d:DesignHeight="720"
+        MinWidth="1300"
+        MinHeight="720"
+        FontFamily="Segoe UI" MaxWidth="1300" MaxHeight="730" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+  
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0"  Margin="10 0 10 20">
+            <Image HorizontalAlignment="Left" VerticalAlignment="Bottom" Source="Images\Logo.png" Stretch="None" Margin="0 0 0 4"/>
+            <k:KinectUserViewer k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="100" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <k:KinectSensorChooserUI HorizontalAlignment="Center" VerticalAlignment="Top" Name="sensorChooserUi" />
+            <TextBlock HorizontalAlignment="Right" Margin="0 0 -1 0" VerticalAlignment="Bottom" Foreground="{StaticResource MediumGreyBrush}" FontSize="18">Controls Basics</TextBlock>
+        </Grid>
+
+        <k:KinectRegion Grid.Row="1" x:Name="kinectRegion">
+            <WrapPanel VerticalAlignment="Top" x:Name="wrapPanel" Orientation="Vertical" k:KinectRegion.HandPointerGrip="manoCerrada" k:KinectRegion.HandPointerGripRelease="manoAbierta" k:KinectRegion.HandPointerMove="moviendoMano" k:KinectRegion.HandPointerLeave="manoFuera">
+                    <!-- items for design layout.  They will be replaced at runtime. -->
+                    <k:KinectTileButton Name="tile" Height="450" Width="1295" IsHitTestVisible="True" />
+            </WrapPanel>            
+        </k:KinectRegion>
+    </Grid>
+</Window>

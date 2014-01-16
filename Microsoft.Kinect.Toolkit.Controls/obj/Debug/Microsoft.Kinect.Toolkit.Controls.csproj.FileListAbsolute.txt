@@ -1,0 +1,36 @@
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\AdaptiveUi-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\AdaptiveUi-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\AdaptiveUi-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\AdaptiveUi-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\WpfApplication1\.Debug\KinectInteraction180_32.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\WpfApplication1\.Debug\KinectInteraction180_64.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\WpfApplication1\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\WpfApplication1\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\C Sharp\.Debug\KinectInteraction180_32.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\C Sharp\.Debug\KinectInteraction180_64.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\C Sharp\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\Kinect\C Sharp\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\YURI\Dropbox\02 SHARED\NPI\03-Kinect\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
